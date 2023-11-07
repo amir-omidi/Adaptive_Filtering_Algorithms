@@ -1,4 +1,3 @@
-```markdown
 # Adaptive Filtering Code Samples
 
 This repository contains four Python code samples that demonstrate the use of various adaptive filtering algorithms for signal processing and parameter estimation. Each code sample is accompanied by an explanation of its purpose and functionality.
@@ -37,23 +36,15 @@ To run these code samples, you will need:
 
 You can run each code sample independently by executing the corresponding Python script. Make sure you have the required libraries installed.
 
-```bash
-python <script_name>.py
-```
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- [NumPy](https://numpy.org/)
-- [Matplotlib](https://matplotlib.org/)
-
+Acknowledgments
+NumPy
+Matplotlib
 Feel free to explore and use these code samples for your own projects or learning purposes.
 
+If you have any questions or feedback, please open an issue on this repository.
+
 Happy coding!
-```
+
 ## Author
 Amirhossein Omidi
 
